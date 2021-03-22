@@ -28,3 +28,18 @@ ___
 --- 
 
 > "React, is a terrible name for React.js" - John Lindquist
+___
+
+## Lists Ordered and Unordered
+
+1. List Item 1
+2. List Item 2
+    1. List Sublist 1
+    2. List Sublist 2
+3. List Item 3
+
+
+- List Item 1
+- List Item 2
+    1. List Item Sublist 1
+- List Item 3
