@@ -43,3 +43,30 @@ ___
 - List Item 2
     1. List Item Sublist 1
 - List Item 3
+
+___
+
+## Code Blocks
+
+```
+{ 
+    youtubeChannel: 'https://www.youtube.com/watch?v=AdNJ3fydeao'
+}
+```
+
+    { 
+        youtubeChannel: 'https://youtu.be/YtD2mWDQnxM?t=294'
+    }
+
+
+___
+
+## Images
+
+APP size graph
+
+![Alt Text Example](https://sinisavukmirovic.github.io/Svelte-WHAT-and-HOW-Tutorial/public/img/size.png)
+
+Framework speed graph
+
+![Alt Text Example](https://sinisavukmirovic.github.io/Svelte-WHAT-and-HOW-Tutorial/public/img/speed.png)
