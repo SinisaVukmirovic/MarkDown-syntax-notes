@@ -82,3 +82,10 @@ ___
 [Svelte Presentation](https://www.youtube.com/watch?v=AdNJ3fydeao "Myst watch!")
 
 <allshouldsvelte@gmail.com>
+
+___
+
+## MarkDown syntax cheatsheets
+
+Basic syntax - [](https://www.markdownguide.org/basic-syntax)
+Extended syntax - [](https://www.markdownguide.org/extended-syntax/)
