@@ -50,12 +50,16 @@ ___
 
 ```
 { 
-    youtubeChannel: 'https://www.youtube.com/watch?v=AdNJ3fydeao'
+    if (pro) {
+        console.log('Svelte');
+    } else {
+        console.log('React');
+    }
 }
 ```
 
     { 
-        youtubeChannel: 'https://youtu.be/YtD2mWDQnxM?t=294'
+        alert('All Should Svelte!');
     }
 
 
@@ -70,3 +74,11 @@ APP size graph
 Framework speed graph
 
 ![Alt Text Example](https://sinisavukmirovic.github.io/Svelte-WHAT-and-HOW-Tutorial/public/img/speed.png)
+
+___
+
+## Links and Emails
+
+[Svelte Presentation](https://www.youtube.com/watch?v=AdNJ3fydeao "Myst watch!")
+
+<allshouldsvelte@gmail.com>
