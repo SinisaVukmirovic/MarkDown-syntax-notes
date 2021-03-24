@@ -89,3 +89,37 @@ ___
 
 Basic syntax - [](https://www.markdownguide.org/basic-syntax)
 Extended syntax - [](https://www.markdownguide.org/extended-syntax/)
+
+___
+
+## Extended Syntax - Tables
+--- 
+
+| Left | Center | Right |
+| ---- | ------ | ----- |
+| 1    | 2      | 3     |
+
+
+How to align content inside a table
+| Left | Center | Right |
+| :--- | :----: | ----: |
+| 1    | 2      | 3     |
+
+___
+
+## Extended Syntax - Tasks List
+--- 
+
+- [ ] Did you run the tests?
+- [x] Did you lint the project?
+
+___
+
+## Extended Syntax - Automatic URLs
+--- 
+
+[How To Svelte](www.youtube.com/channel/UCoYGF_kcmubmm_3Xk_2PYCg/videos)
+
+www.youtube.com/channel/UCoYGF_kcmubmm_3Xk_2PYCg/videos
+
+`www.youtube.com/channel/UCoYGF_kcmubmm_3Xk_2PYCg/videos `
